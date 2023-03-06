@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec8381ea3d465554095222d36da5463f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 7b3607e28870bce479c5a8c1691711e3, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Materials/Substances/concrete_wall_tiled.sbsar

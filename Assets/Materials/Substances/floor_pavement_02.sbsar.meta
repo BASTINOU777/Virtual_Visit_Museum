@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b7166cc123160348aada410e2736def
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 0aa2eda2e83f9f54a837cc40ca8ab060, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Materials/Substances/floor_pavement_02.sbsar
